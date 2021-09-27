@@ -9,10 +9,10 @@ This is the first and only *individual* (as opposed to *team*) project this seme
 
 Term: Fall 2021
 
-+ Projec title: Lorem ipsum dolor sit amet
-+ This project is conducted by [your name]
++ Projec title: Is Man more crucial in the world of Philosophy?
++ This project is conducted by Xueying Chen
 
-+ Project summary: [a short summary] Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
++ Project summary: Philosophy is important becuase it can help us think critically. This project is to answer whether man is more important in the History of Philosophy or not. The meaning of Man in Philosophy is defined as human being and huaman nature. From "The Conception of Man in Existential Philosophy", *man is unity and a totality.* The dataset that I use to do analysis is holding at kaggle. It contains about 300,000 sentences and 13 schools. The main techniques that I use to explore the data are WordCloud and Term Frequency — Inverse Document Frequency (TF-IDF).
 
 Following [suggestions](http://nicercode.github.io/blog/2013-04-05-projects/) by [RICH FITZJOHN](http://nicercode.github.io/about/#Team) (@richfitz). This folder is orgarnized as follows.
 
